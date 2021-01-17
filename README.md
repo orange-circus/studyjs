@@ -1,2 +1,2 @@
-# studyjs
+# J-study
 Created with CodeSandbox
